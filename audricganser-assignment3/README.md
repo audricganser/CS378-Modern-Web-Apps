@@ -1,10 +1,9 @@
-*name: Audric Ganser
-*eid: ag46372
-*notes: none
+name: Audric Ganser
+eid: ag46372
 
-*Import this project in Eclipse and deploy it.
-
-*You can try following URLs to check the functionality of this application
+notes:
+Import this project in Eclipse and deploy it.
+You can try following URLs to check the functionality of this application
 
 <http://localhost:8080/assignment3/ut/listing/helloworld>
 <http://localhost:8080/assignment3/ut/listing/courses>
