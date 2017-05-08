@@ -110,4 +110,4 @@ Steps for deploying a webapp to Cloud VM:
 
 
 7) Access application at:
-   <http://<IP-address>:8080/js-0.0.1-SNAPSHOT/js/helloworld/helloworld>
+   http://<IP-address>:8080/js-0.0.1-SNAPSHOT/js/helloworld/helloworld
